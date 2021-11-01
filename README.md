@@ -35,7 +35,7 @@ O restante foi somente aprimoramento do algorítimo.
 Utilizando a minha máquina como base, obtive os seguintes resultados:
 
 #### Comum:
-![alt text](https://github.com/Farllon/cnpj-validations-gc/blob/main/commom.png?raw=true)
+![alt text](https://github.com/Farllon/cnpj-validations-gc/blob/main/common.png?raw=true)
 
 #### Aprimorado:
 ![alt text](https://github.com/Farllon/cnpj-validations-gc/blob/main/fast.png?raw=true)
